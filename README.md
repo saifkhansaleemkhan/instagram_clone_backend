@@ -29,5 +29,5 @@ instagram_clone_backend repository contains the backend API for the Instagram cl
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/instagram_clone_backend.git
-   cd Instagram_clone_backend
+   git clone https://github.com/saifkhansaleemkhan/instagram_clone_backend.git
+   cd instagram_clone_backend
