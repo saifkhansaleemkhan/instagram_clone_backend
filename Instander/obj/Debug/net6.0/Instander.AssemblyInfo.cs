@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Instander")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc435788e580226437ef96c92420b9fc74474cc6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f4dfbc1771b3edaed85802e6bfc75cce650d31c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Instander")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Instander")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
